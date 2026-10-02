@@ -27,6 +27,8 @@ Instead of linearly swapping adjacent items based on a rigid logic, the idea evo
 
 ## 📊 Benchmarks & Empirical Performance
 
+![C compare and demo screenshot](https://raw.githubusercontent.com/techn0man1ac/RandomBinarySort/refs/heads/main/C_random_binary_sort/C_compare_And_Demo_Screenshot.png)
+
 Compiled with **GCC 12 (`-O3 -std=c99 -pedantic`)** on `Linux x86_64`. Timed using `clock_gettime(CLOCK_MONOTONIC)`.
 
 ### 1. Input Size Scaling Benchmark (Uniform Random Integers)
@@ -69,8 +71,8 @@ Ensure you have a GCC compiler toolchain installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com
-cd RandomBinarySort
+git clone https://github.com/techn0man1ac/RandomBinarySort
+cd C_random_binary_sort
 
 # Compile the framework with maximum -O3 optimization flag
 make
