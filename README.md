@@ -1,8 +1,8 @@
 # Randomized Binary Insertion Sort
 
-
-
 A lightweight Python implementation and empirical study of an intuitive sorting concept: **sorting an array by repeatedly drawing elements at random and placing each element into an ordered accumulator using binary search.**
+
+---
 
 # Genesis of the Project
 
