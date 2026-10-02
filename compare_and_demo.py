@@ -137,7 +137,7 @@ def run_benchmarks() -> None:
     ]
 
     # Part A: Scaling benchmark
-    sizes = [500, 1000, 2000, 4000]
+    sizes = [500, 1000, 5000, 10000, 50000, 100000]
     print("=" * 96)
     print("2. INPUT SIZE SCALING BENCHMARK (Uniform Random Integers)")
     print("=" * 96)
