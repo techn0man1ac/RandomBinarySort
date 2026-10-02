@@ -66,7 +66,9 @@ print(sorted_result)
 
 ## 📖 Primary References
 Knuth, D. E. (1973). The Art of Computer Programming, Volume 3: Sorting and Searching. Addison-Wesley.
+
 Mauchly, J. W. (1946). Sorting and Collating. Notes on lectures given at the Moore School of Electrical Engineering, University of Pennsylvania.
 Bender, M. A., Farach-Colton, M., & Mosteiro, M. A. (2006). Insertion Sort is 
 . Theory of Computing Systems, 39(3), 391–397.
+
 Devroye, L. (1986). A note on the height of binary search trees. Journal of the ACM (JACM), 33(3), 489–498.
