@@ -1,6 +1,12 @@
 # Randomized Binary Insertion Sort
 
+
+
 A lightweight Python implementation and empirical study of an intuitive sorting concept: **sorting an array by repeatedly drawing elements at random and placing each element into an ordered accumulator using binary search.**
+
+# Genesis of the Project
+
+The idea behind this repository was born during a university programming lecture covering classic Bubble Sort. Watching the rigid, step-by-step comparison of adjacent neighbors, I couldn't shake an intuitive thought: what if, instead of sequentially comparing pairs, we picked elements at random and positioned each one relative to those already evaluated? Years later, that student thought experiment finally came to life. Through modern "vibe coding" with AI-which served as a high-level compiler translating abstract conceptual intuition into concrete software architecture-the original spark evolved from a simple Python prototype into a high-performance C framework featuring hardware-level memmove optimizations, Cartesian Treap trees, and empirical proof of distribution immunity.
 
 ---
 
